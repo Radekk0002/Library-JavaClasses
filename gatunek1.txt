@@ -1,0 +1,2 @@
+Tytuł: książkaGatunek1; Autor: AutorGatunek1
+Tytuł: test; Autor: test
